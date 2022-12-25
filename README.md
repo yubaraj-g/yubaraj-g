@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yubaraj-g (Yubaraj Gaonkhowa)
-- 👀 I’m interested in ... Development of Websites and Apps
-- 🌱 I’m currently learning ... Node, Express, MongoDB, Php, Python
-- 💞️ I’m looking to collaborate on ... Web projects or React Native projects
+- 👋 Hi, I’m Yubaraj Gaonkhowa, a Front End Developer (ReactJs, Tailwindcss, RestAPI, Redux, Php, SQL)
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning ... Node, Express, MongoDB, Python
+- 💞️ I’m looking to collaborate on ... ReactJs projects
 - 📫 How to reach me ... mail me at yuvrajwebdev@gmail.com
 
 <!---
